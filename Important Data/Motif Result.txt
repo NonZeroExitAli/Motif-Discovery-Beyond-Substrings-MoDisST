@@ -1,1 +1,0 @@
-CATCACCAT with length= 9
