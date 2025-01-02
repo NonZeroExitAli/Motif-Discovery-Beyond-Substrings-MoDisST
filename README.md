@@ -61,4 +61,6 @@ C++11 standard or later
 
 ```
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 
