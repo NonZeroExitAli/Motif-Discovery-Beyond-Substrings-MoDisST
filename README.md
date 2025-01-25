@@ -60,6 +60,10 @@ C++11 standard or later
    - prepare_seqs(lines): Prepares the sequences by concatenating them with separators.
 
 ```
+### Contributors
+Ali Magdi: Reading and Parsing Functions, Obtaining the LCS implementation (doTravrsal and  getLongestCommonSubstring functions), and the Validation for the running tests.
+Suhaila: The suffix tree implementation starting from the Node struct till the buildSuffixTree function.
+
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
